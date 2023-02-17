@@ -42,8 +42,4 @@ public class ListaArray implements EstruturaDeDados{
         // TODO Auto-generated method stub
         return 0;
     }
-
-    public static void main(String[] args) {
-        ListaArray r = new ListaArray();
-    }
 }
